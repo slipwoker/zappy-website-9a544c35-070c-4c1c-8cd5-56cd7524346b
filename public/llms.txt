@@ -1,0 +1,85 @@
+# כמו חדש — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני ומודעות מסווגות business.
+
+---
+
+## Pages
+
+### Home
+https://-9a544c35.zappy5.app
+
+### About
+https://-9a544c35.zappy5.app/about
+
+### How It Works
+https://-9a544c35.zappy5.app/how-it-works
+
+### Contact
+https://-9a544c35.zappy5.app/contact
+
+### Products
+https://-9a544c35.zappy5.app/products
+המוצרים שלנו - כמו חדש
+
+### Cart
+https://-9a544c35.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-9a544c35.zappy5.app/checkout
+תשלום
+
+### Login
+https://-9a544c35.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-9a544c35.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-9a544c35.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-9a544c35.zappy5.app/product/:slug
+פרטי המוצר - כמו חדש
+
+### Category
+https://-9a544c35.zappy5.app/category/:slug
+מוצרים - כמו חדש
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9a544c35.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9a544c35.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9a544c35.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About כמו חדש
+כמו חדש is a business in the מסחר אלקטרוני ומודעות מסווגות industry.
+
+## Target Audience
+קונים ומוכרים פרטיים
+
+## Industry
+מסחר אלקטרוני ומודעות מסווגות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-9a544c35.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-9a544c35.zappy5.app/robots.txt
